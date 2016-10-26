@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SendMessage</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvShow1">请输入手机号码</string>
+    <string name="tvShow2">请输入短信内容</string>
+    <string name="myBtn">发送短信</string>
+
+</resources>
